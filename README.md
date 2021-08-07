@@ -1,4 +1,4 @@
-# Challenges: 06 - Database Queries 🚀
+# Challenge: 06 - Database Queries 🚀
 
 ---
 
